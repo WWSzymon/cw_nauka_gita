@@ -3,3 +3,6 @@ install:
 
 run:
     flask run
+
+start: install run
+
